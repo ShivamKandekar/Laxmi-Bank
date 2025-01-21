@@ -1,2 +1,2 @@
 # Laxmi-Bank
-java projext
+java project
